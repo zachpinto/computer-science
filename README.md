@@ -1,6 +1,7 @@
 # Computer Science Resources
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Data Science](https://github.com/academic/awesome-datascience#readme)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
